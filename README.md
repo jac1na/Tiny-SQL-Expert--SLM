@@ -109,11 +109,11 @@ SQL Validator ── Invalid? ── Yes → Retry with error feedback
 <h2>📸 Demonstration</h2>
 
 <h3>❌ Invalid SQL (Attempt 1)</h3>
-<p><img src="screenshots/INVALIDquery.png" width="550"></p>
+<p><img src="INVALIDquery.png" width="550"></p>
 <p>Shows SQL rejected due to hallucinated column or table.</p>
 
 <h3>✔ Corrected SQL (Attempt 2)</h3>
-<p><img src="screenshots/VALIDquery.png" width="550"></p>
+<p><img src="VALIDquery.png" width="550"></p>
 <p>Shows corrected SQL generated after retry.</p>
 
 <p>These images demonstrate the system’s self-correction capability.</p>
