@@ -50,9 +50,8 @@ tiny-sql-expert/
 ├── requirements.txt
 ├── sql_expert_demo.ipynb   # Google Colab demo notebook
 │
-└── screenshots/
-    ├── INVALIDquery.png
-    └── VALIDquery.png
+├── INVALIDquery.png
+├──  VALIDquery.png
 </pre>
 
 
